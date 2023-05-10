@@ -1,3 +1,4 @@
 # Machine Learning 
 
-Learing to use Github as well
+Learing to use Github as well. 
+In this we shall use the Neural Networks extensively
