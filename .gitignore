@@ -3,3 +3,5 @@ cloned-item/
 open-cv/opencv-4.7.0.zip
 __pycache__
 open-cv/Pic
+open-cv/
+__pycache__
